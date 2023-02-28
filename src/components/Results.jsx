@@ -1,12 +1,13 @@
-import React from 'react'
 
 const Results = ({results}) => {
-  return (
-    <div>
+    console.log(results)
+    return (
+        <div>
         homes
         {results.map((result)=>(
             <div key={result.id}>
-                {result.orignal_title}
+                {result.original_title}
+                <h1>{result.title}</h1>
             </div>
         ))}
     </div>
