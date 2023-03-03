@@ -11,6 +11,9 @@ yarn dev
 # or
 pnpm dev
 ```
+vercel deployed link
+https://imdb-oh67.vercel.app/
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
