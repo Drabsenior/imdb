@@ -8,6 +8,7 @@ const Searchbox = () => {
       e.preventDefault()
       if(!search) return 
       router.push(`/search/${search}`)
+      setSearch('')
     }
   return (
     <form className='flex items-center justify-between max-w-6xl mx-auto px-3' onSubmit={handleSubmit}>
