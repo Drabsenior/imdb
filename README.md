@@ -1,4 +1,4 @@
-# **imdb clone**
+# **IMDb clone**
 
 ## [Live site](https://imdb-oh67.vercel.app/)
 
