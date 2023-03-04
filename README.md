@@ -1,5 +1,7 @@
 # **imdb clone**
 
+## [Live site](https://imdb-oh67.vercel.app/)
+
 ![imdb](https://user-images.githubusercontent.com/99409488/222883462-d6ad1f00-ae2e-4afe-987f-4b2153adcb57.PNG)
 
 ## Introduction
